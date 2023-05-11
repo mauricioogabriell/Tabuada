@@ -1,2 +1,1 @@
 # 🔢 🔢 Tabuada🔢 🔢 
- tabuada.py
